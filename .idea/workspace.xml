@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97eae9d7-003b-484d-9f46-f140bffa0c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/AdminRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/ClassRoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/ClassRoomRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/TeacherRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/TeacherRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/request/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/request/UpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/response/RegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/response/UpdateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/AdminServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ClassRoomServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ClassRoomServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TeacherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TeacherServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/AdminRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/ClassRoomRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/serviceTest/StudentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/RepositoriesTest/StudentRepositoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PFNcjiryrV6d42L9Xf6NgoODsp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Favour Nwadike/IdeaProjects/SchoolManagementApp&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories" />
+      <recent name="test.RepositoriesTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentRepositoryTest.checkThatStudentIdCanBeFound">
+    <configuration name="AdminRepositoryImplTest.testThatAdminCanBeSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.AdminRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testThatAdminCanBeSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.RepositoriesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.RepositoriesTest" />
+      <option name="MAIN_CLASS_NAME" value="test.RepositoriesTest.StudentRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRepositoryTest.checkThatStudentIdCanBeFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.RepositoriesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.RepositoriesTest" />
+      <option name="MAIN_CLASS_NAME" value="test.RepositoriesTest.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="checkThatStudentIdCanBeFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRepositoryTest.saveNewStudentMultipleTimes_CountDoesNotIncrementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.RepositoriesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.RepositoriesTest" />
+      <option name="MAIN_CLASS_NAME" value="test.RepositoriesTest.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="saveNewStudentMultipleTimes_CountDoesNotIncrementTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRepositoryTest.saveNewStudent_CountIsIncrementedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolManagementApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.RepositoriesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.RepositoriesTest" />
+      <option name="MAIN_CLASS_NAME" value="test.RepositoriesTest.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="saveNewStudent_CountIsIncrementedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentRepositoryTest.checkThatStudentIdCanBeFound" />
+        <item itemvalue="JUnit.StudentRepositoryTest.saveNewStudentMultipleTimes_CountDoesNotIncrementTest" />
+        <item itemvalue="JUnit.StudentRepositoryTest.saveNewStudent_CountIsIncrementedTest" />
+        <item itemvalue="JUnit.StudentRepositoryTest" />
+        <item itemvalue="JUnit.AdminRepositoryImplTest.testThatAdminCanBeSaved" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97eae9d7-003b-484d-9f46-f140bffa0c32" name="Changes" comment="" />
+      <created>1683048954758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683048954758</updated>
+      <workItem from="1683048956301" duration="11341000" />
+      <workItem from="1683062685871" duration="3755000" />
+      <workItem from="1683066501857" duration="5000" />
+      <workItem from="1683083771796" duration="99000" />
+      <workItem from="1683086761884" duration="4560000" />
+      <workItem from="1683100599437" duration="3899000" />
+      <workItem from="1683115404401" duration="8000" />
+      <workItem from="1683117525900" duration="742000" />
+      <workItem from="1683128450445" duration="2864000" />
+      <workItem from="1683131949187" duration="17155000" />
+      <workItem from="1683188384235" duration="375000" />
+      <workItem from="1683205506430" duration="118000" />
+      <workItem from="1683206498632" duration="166000" />
+      <workItem from="1683206689609" duration="15000" />
+      <workItem from="1683308301061" duration="401000" />
+      <workItem from="1683309240074" duration="36000" />
+      <workItem from="1683309400400" duration="2772000" />
+      <workItem from="1683351985994" duration="2843000" />
+      <workItem from="1683566082274" duration="123000" />
+      <workItem from="1683566912705" duration="4095000" />
+      <workItem from="1683575959461" duration="12049000" />
+      <workItem from="1683617649779" duration="1232000" />
+      <workItem from="1683629614675" duration="52000" />
+      <workItem from="1683630411280" duration="32000" />
+      <workItem from="1683727155309" duration="330000" />
+      <workItem from="1683757428658" duration="22000" />
+      <workItem from="1684155719980" duration="1243000" />
+      <workItem from="1684157173647" duration="51000" />
+      <workItem from="1684157275953" duration="9080000" />
+      <workItem from="1684267706828" duration="9566000" />
+      <workItem from="1684278335393" duration="14000" />
+      <workItem from="1684399118947" duration="39000" />
+      <workItem from="1685527223815" duration="3547000" />
+      <workItem from="1685554677984" duration="2585000" />
+      <workItem from="1685653551742" duration="6640000" />
+      <workItem from="1685660518717" duration="139000" />
+      <workItem from="1685661193389" duration="5103000" />
+      <workItem from="1685691124793" duration="9806000" />
+      <workItem from="1685906782476" duration="1201000" />
+      <workItem from="1686084364043" duration="4699000" />
+      <workItem from="1686146994782" duration="606000" />
+      <workItem from="1686156322395" duration="608000" />
+      <workItem from="1686162380167" duration="379000" />
+      <workItem from="1686218518220" duration="7000" />
+      <workItem from="1686244699760" duration="327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
